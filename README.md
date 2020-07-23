@@ -5,10 +5,10 @@
 
 # Algorithnic
 ## Books
-- [] The Algorithm Design Manual, 2nd Edition, Steven Skiena http://www.algorist.com/
-- [] Programming Pearls: Edition 2, Jon Bentley
-- [] The Pragmatic Programmer: From Journeyman to Master, Andrew HuntDavid Thomas
-- [] Introduction to Algorithms, 3rd Edition (The MIT Press)
+- [ ] The Algorithm Design Manual, 2nd Edition, Steven Skiena http://www.algorist.com/
+- [ ] Programming Pearls: Edition 2, Jon Bentley
+- [ ] The Pragmatic Programmer: From Journeyman to Master, Andrew HuntDavid Thomas
+- [ ] Introduction to Algorithms, 3rd Edition (The MIT Press)
 
 ## Youtube
 - [ ] https://www.youtube.com/user/StevenSkiena
