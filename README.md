@@ -6,6 +6,7 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 ## Books
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 
 - [ ] Think Stats (free) https://greenteapress.com/wp/think-stats-2e/
+- [ ] Think Bayes (free) https://greenteapress.com/wp/think-bayes/
 
 # Algorithmic
 ## Books
@@ -23,15 +24,21 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 - [ ] How to think like a computer scientist http://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf
 - [ ] Cracking the coding interview
 - [ ] Python Data Science Handbook, by Jake VanderPlas, 2016 https://www.oreilly.com/library/view/python-data-science/9781491912126/
+- [ ] A byte of python (free) https://python.swaroopch.com/
 
 ## Courses
 - [ ] - https://developers.google.com/edu/python
+- https://www.codecademy.com/
+- https://www.freecodecamp.org/
+- https://learntocodewith.me/posts/code-for-free/
+- Learn & Practice https://www.learnpython.org/
+- Learn the hard way https://learnpythonthehardway.org/book/
 
 ## Practice
 - codewars 
 - https://techdevguide.withgoogle.com/
-
 - https://codingcompetitions.withgoogle.com/
+
 
 ## Blogs 
 - https://www.joelonsoftware.com/
@@ -39,9 +46,14 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 ## Youtube
 - SciPy Conference playlists, https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A, 
 
+## Podcasts
+Story of people in the coding field https://learntocodewith.me/podcast/
 
 # Machine Learning
-## Books
+## Explore
+- [ ] https://www.johnwittenauer.net/tag/machine-learning/
+- [ ] https://chrisalbon.com/
+- [ ] https://ai.google/education/
 
 ## Kaggle 
 - [ ] Cloud competition, https://www.kaggle.com/c/understanding_cloud_organization/data
@@ -70,14 +82,24 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 # Remote Sensing
 - [ ] 
 
+# Environment
+- commandline http://conqueringthecommandline.com/book
+- git https://gitimmersion.com/
+- git https://try.github.io/
 
 # Lunch break
 ## Complete website
 - GIS https://gisgeography.com/
+ - 100 uses for remote sensing https://gisgeography.com/100-earth-remote-sensing-applications-uses/
+- Data science https://elitedatascience.com/category/guides
 ## Videos
 - towardatasciences/video (https://towardsdatascience.com/video/home)
-
+- https://www.youtube.com/user/derekbanas
+- commandline tips https://commandlinepoweruser.com/
+- Data analyst course https://www.springboard.com/resources/learning-paths/data-analysis/
 
 # Recent challenges on GIS x Remote sensing x ML 
 - Covid19
+- Deforestation
+- Frauds, tax-evasion
 
