@@ -72,6 +72,8 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 
 
 # Lunch break
+## Complete website
+- GIS https://gisgeography.com/
 ## Videos
 - towardatasciences/video (https://towardsdatascience.com/video/home)
 
