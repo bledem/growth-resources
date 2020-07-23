@@ -38,8 +38,7 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 
 ## Youtube
 - SciPy Conference playlists, https://www.youtube.com/channel/UCkhm72fuzkS9fYGlGpEmj7A, 
-- https://www.youtube.com/watch?v=kJXUUO5M4ok&feature=youtu.be for introduction to for geospatial data. 
-- https://www.youtube.com/watch?v=TE4uXbkHK_Y&feature=youtu.be cartopy tutorial.
+
 
 # Machine Learning
 ## Books
@@ -61,6 +60,10 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 - [ ] Geographic data science(from Liverpool University, latest 2019) http://darribas.org/gds19/
 - [ ] (nonfree) Working with Geospatial Data in Python https://www.datacamp.com/courses/working-with-geospatial-data-in-python
 - [ ] Spatial Data Science and Applications (Coursera)
+
+## Youtube
+- https://www.youtube.com/watch?v=kJXUUO5M4ok&feature=youtu.be for introduction to for geospatial data. 
+- https://www.youtube.com/watch?v=TE4uXbkHK_Y&feature=youtu.be cartopy tutorial.
 - [ ] (advance) Spatial Data Science (youtube playlist from the University of Chicago 2017), https://www.youtube.com/playlist?list=PLzREt6r1Nenlu-MBaxCRL2KZNk62n7o1g
 
 
@@ -70,7 +73,7 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 
 # Lunch break
 ## Videos
-- [ ] towardatasciences/video (https://towardsdatascience.com/video/home)
+- towardatasciences/video (https://towardsdatascience.com/video/home)
 
 
 # Recent challenges on GIS x Remote sensing x ML 
