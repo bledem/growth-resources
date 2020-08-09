@@ -4,6 +4,7 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 
 # Maths
 ## Books
+- [ ] An Introduction to Statistical Learning: With Applications in R 
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 
 - [ ] Think Stats (free) https://greenteapress.com/wp/think-stats-2e/
 - [ ] Think Bayes (free) https://greenteapress.com/wp/think-bayes/
@@ -97,6 +98,7 @@ Story of people in the coding field https://learntocodewith.me/podcast/
 - https://www.youtube.com/user/derekbanas
 - commandline tips https://commandlinepoweruser.com/
 - Data analyst course https://www.springboard.com/resources/learning-paths/data-analysis/
+- Stat by Google Head Decision, Cassie Kozyrkov https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw
 
 # Recent challenges on GIS x Remote sensing x ML 
 - Covid19
