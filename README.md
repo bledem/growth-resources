@@ -4,8 +4,10 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 
 # Maths
 ## Books
-- [ ] An Introduction to Statistical Learning: With Applications in R 
-- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) 
+- [ ] An Introduction to Statistical Learning: With Applications in R (free)
+- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Springer Series in Statistics) (free)
+- [ ] Introduction to Statistics and Data Analysis
+- [ ] Probability and Statistics, Degroot, Schervish (free)
 - [ ] Think Stats (free) https://greenteapress.com/wp/think-stats-2e/
 - [ ] Think Bayes (free) https://greenteapress.com/wp/think-bayes/
 
