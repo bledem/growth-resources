@@ -2,7 +2,9 @@
 You will find a list of resources for any moods, watching, reading, practicing - even eating - for the following topics:
 maths, algorithmics, python, machine learning, GIS, remote sensing.  
 
-# Maths
+# Statistics
+## Videos
+- [ ] (Basics to intermdediate) Math and Science channel https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
 ## Books
 - [ ] An Introduction to Statistical Learning: With Applications in R (free)
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Springer Series in Statistics) (free)
@@ -67,7 +69,7 @@ Story of people in the coding field https://learntocodewith.me/podcast/
 # Geographic Information Science (GIS)
 ## Book 
 - [ ] Imagery and GIS: Best Practices for Extracting Information from Imagery 1st Edition
-- [ ] Learn GIS with Python (Packt)
+- [ ] Learning geospatial analysis with Python (Packt)
 
 ## Courses
 - [ ]  Geo Python, Learn GIS and python practices with video and github repo (from Helsinki University, latest 2019) https://automating-gis-processes.github.io/site/index.html
