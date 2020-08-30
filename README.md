@@ -13,6 +13,14 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 - [ ] Think Stats (free) https://greenteapress.com/wp/think-stats-2e/
 - [ ] Think Bayes (free) https://greenteapress.com/wp/think-bayes/
 
+# Functionnal Data Analysis
+## Videos 
+- [ ] Classes from Jiguo Cao https://www.youtube.com/watch?v=FjIK3YzUGG4&list=PLOdMinGElTQenPYWhochrqgAa4M3wXdEP&index=2
+## Books
+- [ ] Functional Data Analysis, J. O. RamsayB. W. Silverman
+## Slides 
+- [ ] http://faculty.bscb.cornell.edu/~hooker/ShortCourseHandout.pdf
+
 # Algorithmic
 ## Books
 - [ ] The Algorithm Design Manual, 2nd Edition, Steven Skiena http://www.algorist.com/
