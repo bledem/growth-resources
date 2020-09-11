@@ -5,11 +5,13 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 # Statistics
 ## Videos
 - [ ] (Basics to intermdediate) Math and Science channel https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
+- [ ] Standford Open courses by Trevor Hastie, Robert Tibshirani (authors of the books below) https://www.edx.org/course/statistical-learning
 ## Books
 - [ ] An Introduction to Statistical Learning: With Applications in R (free)
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Springer Series in Statistics) (free)
 - [ ] Introduction to Statistics and Data Analysis
 - [ ] Probability and Statistics, Degroot, Schervish (free)
+- [ ] Introduction to Time Series and Forecasting, Peter J. Brockwell Richard A. Davis
 - [ ] Think Stats (free) https://greenteapress.com/wp/think-stats-2e/
 - [ ] Think Bayes (free) https://greenteapress.com/wp/think-bayes/
 
