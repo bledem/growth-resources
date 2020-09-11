@@ -66,6 +66,8 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 Story of people in the coding field https://learntocodewith.me/podcast/
 
 # Machine Learning
+## Books
+- [ ] Machine learning yearning, Andrew Ng (free after order)
 ## Explore
 - [ ] https://www.johnwittenauer.net/tag/machine-learning/
 - [ ] https://chrisalbon.com/
