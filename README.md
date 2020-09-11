@@ -5,7 +5,8 @@ maths, algorithmics, python, machine learning, GIS, remote sensing.
 # Statistics
 ## Videos
 - [ ] (Basics to intermdediate) Math and Science channel https://www.youtube.com/watch?v=e6HsIWQJjdM&list=PLnVYEpTNGNtXy4nzB0vm_hgQN1_BiPKLO
-- [ ] Standford Open courses by Trevor Hastie, Robert Tibshirani (authors of the books below) https://www.edx.org/course/statistical-learning
+- [ ] Open courses by Stanford given by Trevor Hastie, Robert Tibshirani (authors of the books below) https://www.edx.org/course/statistical-learning
+- [ ] Statistics with Python by UCSanDiegoX https://www.edx.org/course/probability-and-statistics-in-data-science-using-p
 ## Books
 - [ ] An Introduction to Statistical Learning: With Applications in R (free)
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Springer Series in Statistics) (free)
